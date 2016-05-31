@@ -1,0 +1,14 @@
+out/
+*.jar
+.gradle
+build/
+.idea/workspace.xml
+.idea/dictionaries
+.idea/sonarIssues.xml
+.idea/uiDesigner.xml
+.idea/inspectionProfiles/
+.idea/gradle.xml
+.idea/libraries/
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
